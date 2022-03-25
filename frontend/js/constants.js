@@ -1,4 +1,4 @@
-const contractAddress = "0xF3FbF2056024a9497E17c36A7C915333a375605e"; //Replace with your own contract address
+const contractAddress = "0x4f40d7dE1b3a811BAbA40Fdf7839e8b5a54C39d8"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the ETHical Angels NFT Project!";
